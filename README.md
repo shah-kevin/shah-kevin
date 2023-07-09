@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shah-kevin
-- 👀 I’m interested in Data Analytics and Machine learning Models
-- 🌱 I’m currently learning inner workings of Scikit learn Algorithms
+- 👀 I's a Machine learning enthusiast
+- 🌱 I have Business Experience in e-commerce, supply chain, and ERP projects and have done academic projects in the Healthcare domain as well
 - 💞️ I’m looking to collaborate on any Analytics or Data Science projects
-- 📫 How to reach me shah.kevin@northeastern.edu
+- 📫 Reach out to my email: shah.kevin@northeastern.edu/kev22nov@gmail.com
 
 <!---
 shah-kevin/shah-kevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
