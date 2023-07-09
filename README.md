@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shah-kevin
 - 👀 I's a Machine learning enthusiast
-- 🌱 I have Business Experience in e-commerce, supply chain, and ERP projects and have done academic projects in the Healthcare domain as well
+- 🌱 I'm a BI analyst with experience in e-commerce, supply chain, and ERP projects and have done academic projects in the Healthcare domain as well
 - 💞️ I’m looking to collaborate on any Analytics or Data Science projects
 - 📫 Reach out to my email: shah.kevin@northeastern.edu/kev22nov@gmail.com
 
